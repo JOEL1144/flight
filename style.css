@@ -917,9 +917,9 @@ header {
      display :grid;
      gap:50px;
      height: 800px;
-     width: calc(100% + 100px);
+     width: calc(100% + 400px);
      padding:40px;
-     margin-right:-400px;
+     margin-right:-700px;
      align-items: center ;
      justify-items:center;
      text-align: center ;
