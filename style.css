@@ -73,7 +73,7 @@ header{
     width:100%;
 }
    .mobile-menu.active {
-      display: flex;
+      display: none;
       animation: dropdown 0.3s ease forwards;
       position: fixed;
       background:#1E90FF;
